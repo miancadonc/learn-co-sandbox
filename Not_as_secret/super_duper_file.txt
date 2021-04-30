@@ -1,0 +1,2 @@
+This is the text I intend to redirect into my super duper file.
+This is the text I intend to use the variable BAR to insert into my super duper file.
